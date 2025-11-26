@@ -1,0 +1,25 @@
+<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#clip0_india_flag)">
+    <!-- Outer white circle background -->
+    <circle cx="8" cy="8" r="8" fill="#FFFFFF"/>
+    <!-- Top Saffron band -->
+    <path d="M0 0H16V5.33333H0V0Z" fill="#FF9933"/>
+    <!-- Middle White band -->
+    <path d="M0 5.33333H16V10.6667H0V5.33333Z" fill="#FFFFFF"/>
+    <!-- Bottom Green band -->
+    <path d="M0 10.6667H16V16H0V10.6667Z" fill="#138808"/>
+    <!-- Ashoka Chakra -->
+    <circle cx="8" cy="8" r="1.6" stroke="#000080" stroke-width="0.5" fill="none"/>
+    <g stroke="#000080" stroke-width="0.3">
+      <line x1="8" y1="6.4" x2="8" y2="9.6"/>
+      <line x1="6.4" y1="8" x2="9.6" y2="8"/>
+      <line x1="6.83" y1="6.83" x2="9.17" y2="9.17"/>
+      <line x1="9.17" y1="6.83" x2="6.83" y2="9.17"/>
+    </g>
+  </g>
+  <defs>
+    <clipPath id="clip0_india_flag">
+      <circle cx="8" cy="8" r="8" fill="white"/>
+    </clipPath>
+  </defs>
+</svg>
